@@ -20,3 +20,5 @@ void EnterNumber(double pointB1, double pointK1, double pointB2, double pointK2)
 }
 
 EnterNumber(2, 5, 4, 9);
+
+
